@@ -1,0 +1,7 @@
+entity.NetherStarCreeper.name=Nether Star Creeper
+entity.PorkifiedCreeper.name=Porkified Creeper
+entity.AngelCreeper.name=Angel Creeper
+entity.MysteryCreeper.name=Mystery Creeper
+item.MysteryStone.name=Mystery Stone
+item.MysteryStone.tooltip.base=Converts energy into nothingness
+item.MysteryStone.tooltip.advanced=Prevents damage from any explosion, one use
