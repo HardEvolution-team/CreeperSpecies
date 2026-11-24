@@ -1,0 +1,19 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "creeperspecies",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "creeper_species_mod_1.7.10.jar",
+      "name": "creeper_species_mod_1.7.10.jar - Creeper Species 1.7.2 for 1.7.10",
+      "sha256": "10dc382407525053cdf3e4184d6980705ef25c180b937b0a965ac59332e4563c",
+      "size": 27945,
+      "page": "https://www.9minecraft.net/?p=59309",
+      "mirrors": [
+        "scrape:https://files2.9minecraft.net/index.php?act=dl&id=1687312109 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1687312109&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://files2.mc-mod.net/index.php?act=dl&id=1687312109 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1687312109&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    }
+  ]
+}
